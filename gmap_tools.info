@@ -1,4 +1,4 @@
 name = "GMap Tools"
-description = "Permite crear marcadores customizados y mas!"
+description = "Allow adding custom markers and more!"
 core = 7.x
-package = "Tk_Modules"
+package = "GMap Tools"
