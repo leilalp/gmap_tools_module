@@ -2,3 +2,9 @@ name = "GMap Tools"
 description = "Allow to add custom markers and more!"
 core = 7.x
 package = "GMap Tools"
+
+files[] = includes/gmap_tools_widget.inc
+files[] = includes/gmap_tools_formatter.inc
+
+stylesheets[all][] = css/gmap_tools.css
+scripts[] = js/gmap_tools.js
