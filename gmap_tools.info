@@ -1,0 +1,4 @@
+name = "GMap Tools"
+description = "Permite crear marcadores customizados y mas!"
+core = 7.x
+package = "Tk_Modules"
